@@ -31,6 +31,16 @@ ARCOS is an architectural approach to *thinking with* intelligence rather than d
 
 - **v0.1** — Foundational ARCOS architecture snapshot  
   → [Read v0.1](versions/v0.1.md)
+---
+
+## Explore ARCOS interactively
+
+ARCOS can also be explored in an interactive guide:
+
+→ **ARCOS GPT** — https://chatgpt.com/g/g-6939ed9f233481919bb91bac62af203d-arcos-meaning-identity-alignment-guide
+
+This GPT provides a guided, reflective interface for engaging with the architecture’s principles and structure.
+It should be used as a companion, not a replacement for the formal documentation.
 
 ## Status
 
