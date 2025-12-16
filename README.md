@@ -27,6 +27,10 @@ ARCOS functions as a *thinking architecture* — a way of structuring interactio
 - Not a claim of AGI
 
 ARCOS is an architectural approach to *thinking with* intelligence rather than delegating thought to it.
+## Versions
+
+- **v0.1** — Foundational ARCOS architecture snapshot  
+  → [Read v0.1](versions/v0.1.md)
 
 ## Status
 
